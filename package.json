@@ -1,0 +1,29 @@
+{
+  "name": "apirentas",
+  "version": "1.0.0",
+  "description": "api-rentas",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mejiasimon/apiRentas.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Simon Mejia Muñoz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mejiasimon/apiRentas/issues"
+  },
+  "homepage": "https://github.com/mejiasimon/apiRentas#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongodb": "^6.2.0",
+    "mongoose": "^8.0.0"
+  }
+}
